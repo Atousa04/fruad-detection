@@ -31,5 +31,6 @@ Open the fraud_detection.ipynb file in Jupyter Notebook and run it step by step.
 - Matplotlib / Seaborn
 
 
-## Developer
+## Developers
 **Atousa Naghashzade**
+**Aria Jafari**
