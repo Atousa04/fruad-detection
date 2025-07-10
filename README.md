@@ -14,8 +14,8 @@ This project aims to identify fraudulent transactions in blockchain payments usi
 To run the project, you should first create a virtual environment and install the necessary libraries:
 
 ```bash
-python -m venv venv
-venv\Scripts\activate           # On Windows
+python -m venv machine_venv
+machine_venv\Scripts\activate           # On Windows
 pip install -r requirements.txt
 ```
 
