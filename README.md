@@ -32,5 +32,5 @@ Open the fraud_detection.ipynb file in Jupyter Notebook and run it step by step.
 
 
 ## Developers
-**Atousa Naghashzade**
-**Aria Jafari**
+- **Atousa Naghashzade**
+- **Aria Jafari**
